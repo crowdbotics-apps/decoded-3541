@@ -1,0 +1,1 @@
+web: waitress-serve --port=$PORT decoded_3541.wsgi:application
